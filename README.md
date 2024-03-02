@@ -15,6 +15,6 @@ Clone this repository into your system using the following Git command:
 ```bash
 git clone https://github.com/VernSG/growtopia-http.git
 
-## 2.Build Https
+### 2.Build Https
 
 ![Build Https](antiddos.png)
