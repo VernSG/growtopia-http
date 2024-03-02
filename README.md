@@ -1,6 +1,6 @@
 # Anti-DDoS Server
 
-![Server Image](Http.png)
+![Server Image](http.png)
 
 This is a simple Anti-DDoS application written in VB.NET. The application is designed to provide protection against DDoS attacks by blocking suspicious IP addresses.
 
