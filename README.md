@@ -13,8 +13,8 @@ Here are the steps to prepare and run the Anti-DDoS Server application:
 Clone this repository into your system using the following Git command:
 
 ```bash
-git clone https://github.com/VernSG/growtopia-http.git```
-
+git clone https://github.com/VernSG/growtopia-http.git
+```
 
 ### 2. Build HTTPS
 ![Server Image](antiddos.png)
