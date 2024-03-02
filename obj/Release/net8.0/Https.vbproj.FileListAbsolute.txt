@@ -1,0 +1,14 @@
+C:\Users\snexm\source\repos\Https\Https\bin\Release\net8.0\Https.exe
+C:\Users\snexm\source\repos\Https\Https\bin\Release\net8.0\Https.deps.json
+C:\Users\snexm\source\repos\Https\Https\bin\Release\net8.0\Https.runtimeconfig.json
+C:\Users\snexm\source\repos\Https\Https\bin\Release\net8.0\Https.dll
+C:\Users\snexm\source\repos\Https\Https\bin\Release\net8.0\Https.pdb
+C:\Users\snexm\source\repos\Https\Https\obj\Release\net8.0\Https.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snexm\source\repos\Https\Https\obj\Release\net8.0\Https.AssemblyInfoInputs.cache
+C:\Users\snexm\source\repos\Https\Https\obj\Release\net8.0\Https.AssemblyInfo.vb
+C:\Users\snexm\source\repos\Https\Https\obj\Release\net8.0\Https.vbproj.CoreCompileInputs.cache
+C:\Users\snexm\source\repos\Https\Https\obj\Release\net8.0\Https.dll
+C:\Users\snexm\source\repos\Https\Https\obj\Release\net8.0\refint\Https.dll
+C:\Users\snexm\source\repos\Https\Https\obj\Release\net8.0\Https.pdb
+C:\Users\snexm\source\repos\Https\Https\obj\Release\net8.0\Https.genruntimeconfig.cache
+C:\Users\snexm\source\repos\Https\Https\obj\Release\net8.0\ref\Https.dll
